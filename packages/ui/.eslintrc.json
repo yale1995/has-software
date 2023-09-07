@@ -1,0 +1,3 @@
+{
+  "extends": "@has-software/eslint-config"
+}
