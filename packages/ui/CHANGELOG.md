@@ -1,5 +1,11 @@
 # @has-software/ui
 
+## 1.1.0
+
+### Minor Changes
+
+- Updating ci
+
 ## 1.0.3
 
 ### Patch Changes
